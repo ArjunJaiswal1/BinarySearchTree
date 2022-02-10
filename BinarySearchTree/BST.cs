@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BinarySearchTree
+namespace BinarySearchTreePrograms
 {
     public class BST<T> where T : IComparable<T>
     {
@@ -67,5 +67,3 @@ namespace BinarySearchTree
         }
     }
 }
-    
-
